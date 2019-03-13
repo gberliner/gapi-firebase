@@ -1,3 +1,5 @@
+# Fork of [https://github.com/msukmanowsky/gapi-firebase](https://github.com/msukmanowsky/gapi-firebase)
+
 # GAPI and Firebase Auth
 
 An example of how to use GAPI and Firebase Auth together to authenticate users
